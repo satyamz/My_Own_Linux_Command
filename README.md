@@ -11,14 +11,14 @@ programs repediatly.In order to reduce time this script generates own Linux comm
 You can generate everything in your local copy of My_Own_Linux_Command .
 
 ### Usage : 
-In Linux operating systems (whichever it is rpm based and deb based) open terminal and login as root
+In Linux operating systems (whichever it is rpm based and deb based) open terminal and login as root.
 Change the current directory to My_Own_Linux_Command.
 
 ```          cd My_Own_Linux_Command        ```
 
-Before running the script copy the program of which you want to create a command. Here I am keeping sample C program my_program.c in My_Own_Linux_Command directory
+Before running the script copy the program of which you want to create a command. Here I am keeping sample C program my_program.c in My_Own_Linux_Command directory.
 
-Now run the script command_maker.sh ,  pass arguments as my_program.c and command name like Here I am giving it as inspire
+Now run the script command_maker.sh ,  pass arguments as my_program.c and command name like Here I am giving it as inspire.
 
 ```     $ bash command_maker.sh my_program.c inspire      ```
 
