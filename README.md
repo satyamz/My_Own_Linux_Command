@@ -29,7 +29,7 @@ Congratulations :+1:  you have just created your own Linux command
 1. Remove duplications with existing commands
 2. Enable support for C++ and python
 3. Suggest any other features
-
+4. Also open issue
 
 
 
